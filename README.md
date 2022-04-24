@@ -1,7 +1,7 @@
 ## Wilson-Security-Email-Template
 
-##### Design with BG Image: https://azazmuzaffar.github.io/Wilson-Security-Email-Template/wilson.html
-##### Design with Group Image: https://azazmuzaffar.github.io/Wilson-Security-Email-Template/wilson-image.html
++ ##### Design with BG Image: https://azazmuzaffar.github.io/Wilson-Security-Email-Template/wilson.html
++ ##### Design with Group Image: https://azazmuzaffar.github.io/Wilson-Security-Email-Template/wilson-image.html
 
 ### Working perfectly fine on:
 
